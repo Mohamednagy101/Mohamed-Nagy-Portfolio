@@ -128,7 +128,7 @@ footer{background:#060e1a;padding:1.5rem 2.5rem;display:flex;justify-content:spa
 }
 .cert-btn {
   display: inline-block;
-  margin-top: 8px;
+  margin-top: auto;
   padding: 5px 14px;
   background: #1a2035;
   color: #e8c97a;
@@ -143,3 +143,10 @@ footer{background:#060e1a;padding:1.5rem 2.5rem;display:flex;justify-content:spa
 .cert-btn:hover {
   opacity: 0.8;
 }
+.cert { align-items: stretch; }
+.cert > div { display: flex; flex-direction: column; flex: 1; }
+.cert-btn:hover {
+  opacity: 0.8;
+}
+.cert { align-items: stretch; }
+.cert > div { display: flex; flex-direction: column; flex: 1; }
