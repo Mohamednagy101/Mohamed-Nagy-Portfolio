@@ -139,14 +139,3 @@ footer{background:#060e1a;padding:1.5rem 2.5rem;display:flex;justify-content:spa
   border: 1px solid rgba(232,201,122,0.3);
   transition: opacity 0.2s;
 }
-
-.cert-btn:hover {
-  opacity: 0.8;
-}
-.cert { align-items: stretch; }
-.cert > div { display: flex; flex-direction: column; flex: 1; }
-.cert-btn:hover {
-  opacity: 0.8;
-}
-.cert { align-items: stretch; }
-.cert > div { display: flex; flex-direction: column; flex: 1; }
