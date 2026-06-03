@@ -128,7 +128,7 @@ footer{background:#060e1a;padding:1.5rem 2.5rem;display:flex;justify-content:spa
 }
 .cert-btn {
   display: inline-block;
-  margin-top: auto;
+  margin-top: 8px;
   padding: 5px 14px;
   background: #1a2035;
   color: #e8c97a;
