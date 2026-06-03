@@ -126,3 +126,20 @@ footer{background:#060e1a;padding:1.5rem 2.5rem;display:flex;justify-content:spa
   .closing{padding:2.5rem 1.5rem}
   footer{padding:1.25rem 1.5rem}
 }
+.cert-btn {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 5px 14px;
+  background: #1a2035;
+  color: #e8c97a;
+  border-radius: 6px;
+  font-size: 12px;
+  font-family: inherit;
+  text-decoration: none;
+  border: 1px solid rgba(232,201,122,0.3);
+  transition: opacity 0.2s;
+}
+
+.cert-btn:hover {
+  opacity: 0.8;
+}
