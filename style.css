@@ -96,7 +96,7 @@ nav{position:fixed;top:0;left:0;right:0;background:rgba(10,22,40,0.97);backdrop-
 .step-desc{font-size:13px;color:var(--muted);line-height:1.6}
 
 /* CERTS */
-.certs-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px}
+.certs-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px}
 .cert{background:var(--white);border:0.5px solid var(--border);border-radius:10px;padding:1.1rem;display:flex;gap:12px;align-items:flex-start}
 .cert-icon{width:36px;height:36px;border-radius:7px;background:var(--navy);display:flex;align-items:center;justify-content:center;flex-shrink:0}
 .cert-icon i{color:var(--gold);font-size:16px}
