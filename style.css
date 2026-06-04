@@ -139,19 +139,21 @@ footer{background:#060e1a;padding:1.5rem 2.5rem;display:flex;justify-content:spa
   border: 1px solid rgba(232,201,122,0.3);
   transition: opacity 0.2s;
 }
-.project-btn {
+.dashboard-btn {
     display: inline-block;
-    padding: 12px 24px;
-    background-color: #2563eb;
-    color: white;
+    min-width: 170px;
+    text-align: center;
+    background: #111a3a;
+    color: #f4c542;
     text-decoration: none;
+    padding: 12px 20px;
     border-radius: 8px;
-    font-weight: 600;
+    font-size: 16px;
+    font-weight: 500;
+    border: 1px solid #39456b;
     transition: 0.3s;
 }
 
-.project-btn:hover {
-    transform: translateY(-2px);
-    opacity: 0.9;
+.dashboard-btn:hover {
+    background: #1a2550;
 }
-
